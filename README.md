@@ -17,4 +17,4 @@ I'm noob😈
 </p>
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> はじめてマークダウンを使いました
