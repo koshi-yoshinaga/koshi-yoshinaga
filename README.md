@@ -1,12 +1,13 @@
 I'm noob
-<p align="left">
-  ## Language
+## Language
   * dart
   * python
   * java
-  ## Others
+## Others
   * GCP
   * Flutter
+
+<p align="left">
   <a href="https://github.com/koshi-yoshinaga">
     <img height="20" src="https://komarev.com/ghpvc/?username=koshi-yoshinaga" />
   </a>
